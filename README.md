@@ -1,0 +1,1 @@
+- Reference: https://github.com/rich-automation/lotto-action
