@@ -10,5 +10,5 @@ jobs:
         with:
           id: ${{ secrets.ID }}
           pwd: ${{ secrets.PASSWORD }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
           debug: true
